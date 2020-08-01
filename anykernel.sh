@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=Stormbreaker by sparxfusion
+kernel.string=Nom+ Kernel by Noob_214
 do.devicecheck=0
 do.modules=0
 do.systemless=1
